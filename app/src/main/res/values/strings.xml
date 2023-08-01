@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="genre">Genre</string>
+    <string name="enter_movie_title_here">Enter movie title here</string>
+    <string name="enter_year_of_release_here">Enter year of release here</string>
+    <string name="insert">INSERT</string>
+    <string name="show_list">SHOW LIST</string>
+    <string name="show_all_movies_with_this_rating">SHOW ALL MOVIES WITH THIS RATING</string>
+    <string name="movie_id">Movie ID</string>
+    <string name="rating">Rating</string>
+    <string name="year">Year</string>
+    <string name="genre1">Genre</string>
+    <string name="movie_title1">Movie Title</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+
+    <string-array name="spinnersitems">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG13</item>
+        <item>NC16</item>
+        <item>M18</item>
+        <item>R21</item>
+    </string-array>
+
+</resources>
